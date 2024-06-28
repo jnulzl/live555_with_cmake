@@ -1,5 +1,5 @@
 ## live555 CMake Build Supported
-**Based on live555 version **[2024.6.26](liveMedia/include/liveMedia_version.hh)
+**Based on live555 version** [2024.6.26](liveMedia/include/liveMedia_version.hh)
 
 ### Build
 
